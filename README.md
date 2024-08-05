@@ -1,3 +1,3 @@
 # sameh-bot
-A bot for sameh's channel, a 26k channel on telegram
+A bot for sameh's channel, a 30k channel on telegram
 https://t.me/Saicohat
